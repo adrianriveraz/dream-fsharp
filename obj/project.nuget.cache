@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "zo7ycRf94AgwxHCKV2kcrfrSAHcT/WOCN7I53nxCnXnSUYzj3GP5a8uKsjHkwyI0zxq3HErYTenR95aX7KC/pg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\adria\\OneDrive\\Documents\\GitHub\\FirstIonideProject\\FirstIonideProject.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\adria\\.nuget\\packages\\fsharp.core\\7.0.200\\fsharp.core.7.0.200.nupkg.sha512"
+  ],
+  "logs": []
+}
